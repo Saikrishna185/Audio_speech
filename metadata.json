@@ -1,0 +1,6 @@
+{
+  "name": "Odia Healthcare Voiceover Studio",
+  "description": "Create, preview, and download natural regional voiceovers in Odia, Hindi, Telugu, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
